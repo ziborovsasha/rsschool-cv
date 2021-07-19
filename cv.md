@@ -22,12 +22,14 @@ I am a cheerful, energetic, responsible and attentive to details person. I adapt
 > - Skills to provide the required level of the user interface (UI - User Interface) and interaction experience (UX -USER EXPERIENCE);
 > - Knowledge of cross-browser layout;
 > - Knowledge of Accessibility (A11Y) / Wai-Aria;
+
 ### Languages
 
 ---
 > - Russian - Native;
 > - Ukrainian - Native;
 > - English - Elementary;
+
 ### Working experience
 
 ---
