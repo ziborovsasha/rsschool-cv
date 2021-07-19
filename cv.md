@@ -25,9 +25,9 @@ I am a cheerful, energetic, responsible and attentive to details person. I adapt
 ### Languages
 
 ---
-> - Russian - Native
-> - Ukrainian - Native
-> - English - Elementary
+> - Russian - Native;
+> - Ukrainian - Native;
+> - English - Elementary;
 ### Working experience
 
 ---
