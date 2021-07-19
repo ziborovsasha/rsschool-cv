@@ -33,7 +33,7 @@ I am a cheerful, energetic, responsible and attentive to details person. I adapt
 ---
 Since 2017
 
-In *_Open Source International_* company
+In *Open Source International* company
 
 
 ### Functional duties in the company
