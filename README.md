@@ -1,1 +1,1 @@
-https://ziborovsasha.github.io/rsschool-cv/index.html
+https://ziborovsasha.github.io/rsschool-cv/
